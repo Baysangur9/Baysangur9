@@ -1,6 +1,6 @@
-# Приветствую. Меня зовут Байсангур и я Frontend-разработчик
+# I am  Frontend-Development
 
-## Мой стек технологий, с которым я работал:
+## My tech stack I've worked with:
 <ul>
 <li>HTML - CSS - JavaScript;</li>
 <li>React - React Hooks - React Router;</li>
